@@ -1,0 +1,3 @@
+[submodule "TFS-SyncService"]
+	path = TFS-SyncService
+	url = https://github.com/div5yesh/TFS-SyncService
